@@ -1,8 +1,7 @@
 <img alt="Coding" width="100%" src="http://static.ybox.vn/2020/8/1/1598838295437-ezgif.com-resize%20(2).gif">
 
 ## :point_right: Introduce myself:
-- My fullname is Ha Nam Thai, but you can call me Baron.
-- I'm senior at PTIT and now i'm golang developer at Vigo Retail.
+- My fullname is Ha Nam Thai, you can call me Thai.
 - <b>Hobbies: </b> My hobbies are playing guitar :guitar:, reading books :books:, listening to music :musical_note: and having a special hobby is translating manga comics :book:.
 
 ## :notebook_with_decorative_cover: Languages and Tools:
@@ -29,10 +28,10 @@
 </p>
 
 ## :bar_chart: Stats:
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hanamthai&show_icons=true&theme=tokyonight)
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=hanamthai&theme=tokyonight)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hanamthai&layout=compact&theme=radical)]([https://github.com/hanamthai])
-![](https://github-profile-trophy.vercel.app/?username=hanamthai&theme=dracula&no-frame=true&no-bg=false&margin-w=4)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThaiEH&show_icons=true&theme=tokyonight)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ThaiEH&theme=tokyonight)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThaiEH&layout=compact&theme=radical)]([https://github.com/hanamthai])
+![](https://github-profile-trophy.vercel.app/?username=ThaiEH&theme=dracula&no-frame=true&no-bg=false&margin-w=4)
 
 ## :globe_with_meridians: Connect with me:
 <p align="left">
